@@ -1,0 +1,11 @@
+.Navbar{
+    margin: 0px;
+    padding: 0px;
+    background-color: #353535;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    align-self: center;
+    color: #FFFFFF;
+}
